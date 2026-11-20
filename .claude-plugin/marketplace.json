@@ -1,0 +1,11 @@
+{
+  "name": "mods-claude-code",
+  "owner": { "name": "GabrielDyas" },
+  "plugins": [
+    {
+      "name": "chats-panel",
+      "source": "./chats-panel",
+      "description": "Painel lateral com as conversas recentes da pasta; /chats abre e fecha"
+    }
+  ]
+}
